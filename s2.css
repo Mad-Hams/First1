@@ -1,0 +1,125 @@
+body {
+    
+    font-family: 'Titillium Web', sans-serif;
+}
+
+
+.a{
+    margin: 0px 70px;
+}
+
+.v{
+    display: flex;
+    justify-content: space-between ;
+    align-items: center;
+    color: #777777;
+}
+
+
+.b{
+    font-size: 10px;
+    font-weight: 200px;
+    color: rgb(0, 0, 0);
+    padding-top: 30px;
+    
+    
+} 
+.logo{
+    color:  rgb(0, 0, 0);
+}
+
+
+.q{
+    font-size: 10px;
+    font-weight: 200px;
+    color: rgb(255, 218, 5);
+    padding-top: 30px;
+    margin-right: 1050px;
+    
+    
+} 
+.q1{
+    color:  rgb(255, 218, 5);
+}
+
+.e{
+    color: #111111;
+    margin: 200px 170px;
+
+}
+
+
+.d{
+    width: 600px;
+    height: 600px;
+    float: right;
+    margin-right: 100px;
+    margin-top: -500px;
+}
+
+
+.w{
+    color: #777777;
+    font-size: 10px;
+    line-height: 3px;
+}
+
+
+button{
+    display: inline;
+    border-radius: 7px;
+ 
+    padding: 7px 30px;
+ }
+ 
+.w1{
+background-color:rgb(255, 187, 0);
+color: #fff;
+border: 0px solid #000;
+}
+
+.w2{
+    border: 0px solid white;
+    background-color: #fff;
+    border: 1px solid #c5c5c5;
+    margin-left: 20px;
+}
+
+h1{
+    color: #111111;
+    
+}
+
+
+.Na{
+    width: 60%;
+    height: 300px;
+    margin: 0px auto;
+    margin-top: -110px;
+    margin-bottom: 50px;
+    margin-right: 600px;
+    display: flex
+    
+
+    
+
+}
+.h3{
+    border-radius: 50px;
+}
+
+.B1{
+    width: 35%;
+    height: 300px;
+    background-color: #fff;
+    text-align: center;
+    font-size: smaller;
+    
+    
+}
+.k3{
+    border: 0px solid white;
+    background-color: #fff;
+    border: 1px solid #c5c5c5;
+    margin-right: 600px;
+}
